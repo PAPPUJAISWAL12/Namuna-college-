@@ -1,0 +1,90 @@
+.myrows {
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols {
+    border: 3px solid red
+}
+
+.mycontainer {
+    background-color: aqua;
+}
+#topHeader {
+    border-bottom: 1px solid #000000;
+    background-color: lightgoldenrodyellow;width:100%;
+}
+#topHeder a{
+    color: red;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.navbar{
+    position:fixed;
+    top:0;
+    width:100%;
+}
+
+nav { 
+    font-size: 1.1em;
+    font-weight: 600;
+    margin:0px;
+    padding:0px;
+   
+}
+
+.active{
+    background-color: #4CAF50;
+}
+.top-footer
+{
+    color: red;
+    font-weight:500;
+}
+.top-footer h3{
+    color: red;
+    font-weight: 500;
+}
+.icon{
+    padding:2px;
+    font-size:60px;
+    margin:5px;
+}      
+.icon.a{
+    font-size:50px;
+    margin:20px;
+    
+}
+.align-right {
+    float: right;
+    overflow: hidden;
+    padding: 14px 16px;
+}
+.footer {
+    background-image:linear-gradient(to right,#e67e22,#ffd800 );
+    width: 100%;
+}
+@media(max-width:600px){
+    footer{
+        display:block;
+        margin:0px;
+        padding:0px;
+    }
+}
+.faculty{
+    text-align:center;
+    margin:20px;
+    padding:10px;
+    background-color:green;
+    font-size:50px;
+}
+
+.float{
+    float:right;
+    color:red;
+}
+.pic {
+
+    margin-left: auto;
+    margin-right: auto;
+}

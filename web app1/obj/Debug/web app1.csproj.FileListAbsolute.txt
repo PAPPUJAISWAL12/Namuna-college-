@@ -1,0 +1,56 @@
+E:\visual studio\web app1\web app1\bin\web app1.dll.config
+E:\visual studio\web app1\web app1\bin\web app1.dll
+E:\visual studio\web app1\web app1\bin\web app1.pdb
+E:\visual studio\web app1\web app1\bin\roslyn\csc.exe
+E:\visual studio\web app1\web app1\bin\roslyn\csc.exe.config
+E:\visual studio\web app1\web app1\bin\roslyn\csc.rsp
+E:\visual studio\web app1\web app1\bin\roslyn\csi.exe
+E:\visual studio\web app1\web app1\bin\roslyn\csi.exe.config
+E:\visual studio\web app1\web app1\bin\roslyn\csi.rsp
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\visual studio\web app1\web app1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\visual studio\web app1\web app1\bin\roslyn\System.AppContext.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Collections.Immutable.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Console.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.IO.Compression.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.IO.FileSystem.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.IO.Pipes.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Reflection.Metadata.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.AccessControl.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Claims.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.ValueTuple.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Xml.XPath.dll
+E:\visual studio\web app1\web app1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\visual studio\web app1\web app1\bin\roslyn\vbc.exe
+E:\visual studio\web app1\web app1\bin\roslyn\vbc.exe.config
+E:\visual studio\web app1\web app1\bin\roslyn\vbc.rsp
+E:\visual studio\web app1\web app1\bin\roslyn\VBCSCompiler.exe
+E:\visual studio\web app1\web app1\bin\roslyn\VBCSCompiler.exe.config
+E:\visual studio\web app1\web app1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\visual studio\web app1\web app1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\visual studio\web app1\web app1\obj\Debug\web app1.csproj.CoreCompileInputs.cache
+E:\visual studio\web app1\web app1\obj\Debug\web app1.csproj.CopyComplete
+E:\visual studio\web app1\web app1\obj\Debug\web app1.dll
+E:\visual studio\web app1\web app1\obj\Debug\web app1.pdb
+E:\visual studio\web app1\web app1\obj\Debug\web app1.csprojAssemblyReference.cache
